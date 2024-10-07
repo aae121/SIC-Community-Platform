@@ -1,4 +1,5 @@
 # SIC-Community-App -  A Platform for Student Success
+![Uploading image.png…]()
 
 Welcome to the **Samsung Innovation Campus Platform**, a Python-based application designed to empower students with skills and knowledge in a collaborative, technology-driven environment. This platform serves as a virtual community for students to connect, learn, and grow in a supportive and inclusive environment.
 

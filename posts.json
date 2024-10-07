@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "user": "John Doe",
+    "content": "\u0647\u0644\u0648 is my first post!",
+    "timestamp": "2024-09-25 12:34",
+    "likes": 15,
+    "by": 0,
+    "comments": [
+      {
+        "who": 2,
+        "comment": "Great post!",
+        "timestamp": "2024-09-25T12:45:12"
+      },
+      {
+        "who": 1,
+        "comment": "hi",
+        "timestamp": "2024-09-28T18:31:21.691275"
+      },
+      {
+        "who": 2,
+        "comment": "eih",
+        "timestamp": "2024-09-28T20:15:51.801584"
+      },
+      {
+        "user": "Anonymous",
+        "comment": "lol",
+        "timestamp": "2024-09-28T22:37:44.884461",
+        "who": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "user": "Alice",
+    "content": "Another interesting event.",
+    "timestamp": "2024-09-25 13:00",
+    "likes": 14,
+    "by": 0,
+    "comments": [
+      {
+        "who": 1,
+        "comment": "Great post!",
+        "timestamp": "2024-09-25T12:45:12"
+      },
+      {
+        "who": 1,
+        "comment": "hi",
+        "timestamp": "2024-09-28T18:28:48.575798"
+      },
+      {
+        "who": 1,
+        "comment": "hi",
+        "timestamp": "2024-09-28T18:31:07.099807"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "user": "Omar",
+    "content": "New challenge.",
+    "timestamp": "2024-09-25 13:00",
+    "likes": 0,
+    "by": 1,
+    "comments": [
+      {
+        "who": 1,
+        "comment": "Great post!",
+        "timestamp": "2024-09-25T12:45:12"
+      },
+      {
+        "who": 1,
+        "comment": "hi",
+        "timestamp": "2024-09-28T18:28:48.575798"
+      },
+      {
+        "who": 1,
+        "comment": "hi",
+        "timestamp": "2024-09-28T18:31:07.099807"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "user": "a",
+    "content": "hi",
+    "timestamp": "2024-09-25 12:34",
+    "likes": 0,
+    "by": 1,
+    "comments": []
+  },
+  {
+    "id": 4,
+    "user": "a",
+    "content": "lol",
+    "timestamp": "2024-09-25 12:34",
+    "likes": 0,
+    "by": 1,
+    "comments": []
+  }
+]

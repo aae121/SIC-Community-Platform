@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "name": "admin",
+        "phone": "01215165",
+        "email": "admin@gmail.com",
+        "gender": "male",
+        "password": "admin123",
+        "gavernorate": "cairo",
+        "age": "25",
+        "patch": "567897676876",
+        "role": "admin",
+        "freinds": [
+            1,
+            1
+        ]
+    },
+    {
+        "id": 1,
+        "name": "a",
+        "phone": "01165655564",
+        "email": "as",
+        "gender": "male",
+        "password": "1",
+        "gavernorate": "cairo",
+        "age": "19",
+        "patch": "564564654",
+        "role": "user",
+        "freinds": [
+            0,
+            0
+        ]
+    }
+]
